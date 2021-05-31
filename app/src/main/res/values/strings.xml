@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">FMS</string>
+    <string name="logout">LogOut</string>
+    <string name="title_activity_maps2">Map</string>
+    <string name="channel_name">messagepush</string>
+    <string name="channel_description">메시지 푸쉬</string>
+</resources>
